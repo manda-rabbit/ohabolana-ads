@@ -1,9 +1,114 @@
 [
   {
-    "titre": "Découvrez notre page Facebook !",
-    "description": "Rejoignez la communauté Ohabolana et partagez vos proverbes.",
-    "lien": "https://facebook.com/ton-groupe",
-    "logo_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub.jpg",
-    "banner_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub.jpg"
+    "titre": "Orange Madagascar",
+    "description": "Rejoignez le réseau n°1 de la téléphonie mobile à Madagascar.",
+    "lien": "https://www.orange.mg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Orange_logo.svg/200px-Orange_logo.svg.png",
+    "banner_url": "https://picsum.photos/seed/orange1/600/200"
+  },
+  {
+    "titre": "Orange Money",
+    "description": "Envoyez et recevez de l'argent en toute sécurité avec Orange Money.",
+    "lien": "https://www.orange.mg/orange-money",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Orange_logo.svg/200px-Orange_logo.svg.png",
+    "banner_url": "https://picsum.photos/seed/orange2/600/200"
+  },
+  {
+    "titre": "Radisson Blu Antananarivo",
+    "description": "Un séjour d'exception au cœur de la capitale. Réservez maintenant.",
+    "lien": "https://www.radissonhotels.com/fr-fr/hotels/radisson-blu-antananarivo",
+    "logo_url": "https://picsum.photos/seed/radissonlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/radisson1/600/200"
+  },
+  {
+    "titre": "Radisson Blu - Offre Spéciale",
+    "description": "Profitez de -20% sur votre prochain séjour avec le code OHABOLANA.",
+    "lien": "https://www.radissonhotels.com/fr-fr/hotels/radisson-blu-antananarivo",
+    "logo_url": "https://picsum.photos/seed/radissonlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/radisson2/600/200"
+  },
+  {
+    "titre": "BNI Madagascar",
+    "description": "La banque qui accompagne vos projets depuis plus de 100 ans.",
+    "lien": "https://www.bni.mg",
+    "logo_url": "https://picsum.photos/seed/bnilogo/200/200",
+    "banner_url": "https://picsum.photos/seed/bni1/600/200"
+  },
+  {
+    "titre": "BNI - Crédit Immobilier",
+    "description": "Réalisez votre projet immobilier avec un financement adapté.",
+    "lien": "https://www.bni.mg",
+    "logo_url": "https://picsum.photos/seed/bnilogo/200/200",
+    "banner_url": "https://picsum.photos/seed/bni2/600/200"
+  },
+  {
+    "titre": "Telma Madagascar",
+    "description": "Le réseau qui vous connecte partout à Madagascar.",
+    "lien": "https://www.telma.mg",
+    "logo_url": "https://picsum.photos/seed/telmalogo/200/200",
+    "banner_url": "https://picsum.photos/seed/telma1/600/200"
+  },
+  {
+    "titre": "Telma - Offres Internet",
+    "description": "Découvrez nos nouvelles offres Fibre et ADSL.",
+    "lien": "https://www.telma.mg",
+    "logo_url": "https://picsum.photos/seed/telmalogo/200/200",
+    "banner_url": "https://picsum.photos/seed/telma2/600/200"
+  },
+  {
+    "titre": "Airtel Madagascar",
+    "description": "Un réseau mondial, une présence locale.",
+    "lien": "https://www.airtel.mg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Airtel_logo.svg/200px-Airtel_logo.svg.png",
+    "banner_url": "https://picsum.photos/seed/airtel1/600/200"
+  },
+  {
+    "titre": "Airtel Money",
+    "description": "Payez vos factures et transférez de l'argent en un clic.",
+    "lien": "https://www.airtel.mg",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Airtel_logo.svg/200px-Airtel_logo.svg.png",
+    "banner_url": "https://picsum.photos/seed/airtel2/600/200"
+  },
+  {
+    "titre": "Air Madagascar",
+    "description": "La compagnie nationale malgache. Réservez vos vols.",
+    "lien": "https://www.airmadagascar.com",
+    "logo_url": "https://picsum.photos/seed/airmada_logo/200/200",
+    "banner_url": "https://picsum.photos/seed/airmada1/600/200"
+  },
+  {
+    "titre": "Air Madagascar - Destinations",
+    "description": "Découvrez Nosy Be, Fort-Dauphin et bien d'autres.",
+    "lien": "https://www.airmadagascar.com",
+    "logo_url": "https://picsum.photos/seed/airmada_logo/200/200",
+    "banner_url": "https://picsum.photos/seed/airmada2/600/200"
+  },
+  {
+    "titre": "Socolait",
+    "description": "La force du lait frais. Découvrez nos nouveaux yaourts.",
+    "lien": "https://www.socolait.mg",
+    "logo_url": "https://picsum.photos/seed/socolaitlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/socolait1/600/200"
+  },
+  {
+    "titre": "Socolait - Recettes",
+    "description": "Des idées de recettes saines et gourmandes pour toute la famille.",
+    "lien": "https://www.socolait.mg",
+    "logo_url": "https://picsum.photos/seed/socolaitlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/socolait2/600/200"
+  },
+  {
+    "titre": "Star Madagascar",
+    "description": "L'abus d'alcool est dangereux pour la santé. À consommer avec modération.",
+    "lien": "https://www.star.mg",
+    "logo_url": "https://picsum.photos/seed/starlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/star1/600/200"
+  },
+  {
+    "titre": "Star - Caprice",
+    "description": "La boisson qui accompagne tous vos moments de convivialité.",
+    "lien": "https://www.star.mg",
+    "logo_url": "https://picsum.photos/seed/starlogo/200/200",
+    "banner_url": "https://picsum.photos/seed/star2/600/200"
   }
 ]
