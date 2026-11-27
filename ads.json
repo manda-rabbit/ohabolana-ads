@@ -1,14 +1,9 @@
 [
   {
-    "titre": "Rejoignez la communauté !",
-    "description": "Découvrez les coulisses de l'app sur Facebook.",
+    "titre": "Découvrez notre page Facebook !",
+    "description": "Rejoignez la communauté Ohabolana et partagez vos proverbes.",
     "lien": "https://facebook.com/ton-groupe",
-    "image_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub.jpg"
-  },
-  {
-    "titre": "Un autre sponsor",
-    "description": "Découvrez nos offres spéciales.",
-    "lien": "https://example.com",
-    "image_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub2.jpg"
+    "logo_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub.jpg",
+    "banner_url": "https://raw.githubusercontent.com/manda-rabbit/ohabolana-ads/main/pub.jpg"
   }
 ]
